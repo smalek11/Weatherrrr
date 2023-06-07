@@ -1,0 +1,74 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 10.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 9.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 8.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 7.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 6.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 5.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 3.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 1.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 2.png",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "DALL·E 2023-06-06 22.28.11 - animated cloud icon 4.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "512x512"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
