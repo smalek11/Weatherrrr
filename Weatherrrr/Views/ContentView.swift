@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     // initialize location manager
     @StateObject var locationManager = LocationManager()
+     
     
     
     var body: some View {
